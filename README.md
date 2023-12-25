@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stephanie-Thomas
-- 👀 I’m into lacrosse, reading, and vactioning with friends.
+- 👀 I’m into lacrosse, reading, playing the sax, musicals, and vactioning with friends.
 - 🌱 I’m currently learning java & python.
 - 💞️ I’m curretly working for a non-profit as a coding instructor
 - 📫 You can reach me at thomasstephanie490@gmail.com
