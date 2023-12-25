@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stephanie-Thomas
-- 👀 I’m interested in lacrosse, learning programming languages, mma and self-improvement.
+- 👀 I’m into lacrosse, reading, and vactioning with friends.
 - 🌱 I’m currently learning java & python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
