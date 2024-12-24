@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stephanie-Thomas  
 - 👀 I’m into lacrosse, reading, playing the sax, musicals, and vacationing with friends.  
 - 🌱 I’m currently learning Java & Python.  
-- 💞 I’m currently working for a non-profit as a coding instructor and also managing Network Operations Technicians for a small college.  
+- 💞 I’m currently working for a non-profit as a coding instructor and also managing Network Operations for a small college.  
 - 📫 You can reach me at thomasstephanie490@gmail.com
 
 
